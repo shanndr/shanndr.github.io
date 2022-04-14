@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Shannon Drouin"
 title_separator          : "-"
-name                     : &name "Shannon Drouin, MSc"
+name                     : &name "Shannon Drouin"
 description              : &description ""
 url                      : https://shannonmichelledrouin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shannon Drouin"
+  name             : "Shannon M. Drouin, MSc"
   avatar           : "profile.png"
   bio              : "Current PhD Candidate at the University of Alberta"
   location         : "Edmonton, AB, Canada"
