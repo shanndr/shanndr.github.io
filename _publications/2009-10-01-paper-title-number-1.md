@@ -1,15 +1,12 @@
 ---
-title: "Data-driven analyses of longitudinal hippocampal imaging trajectories: Discrimination and biomarker prediction of change classes"
+title: "Subjective memory concerns, poor vascular health, and male sex predict exacerbated memory decline trajectories: An integrative data-driven class and prediction analysis"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2022-02-01
+venue: 'Neuropsychology'
+citation: 'Drouin, S., McFall, G.P., & Dixon, R.A. (2022). &quot;Subjective memory concerns, poor vascular health, and male sex predict exacerbated memory decline trajectories: An integrative data-driven class and prediction analysis.&quot; <i>Neuropsychology<i>, 36(2), 128-139. https://doi.org/10.1037/neu0000784'
+
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Drouin, S., McFall, G.P., & Dixon, R.A. (2022). &quot;Subjective memory concerns, poor vascular health, and male sex predict exacerbated memory decline trajectories: An integrative data-driven class and prediction analysis.&quot; <i>Neuropsychology<i>, 36(2), 128-139. https://doi.org/10.1037/neu0000784
