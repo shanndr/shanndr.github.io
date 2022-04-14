@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shannon Michelle Drouin, MSc"
+title: "Shannon M. Drouin"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
